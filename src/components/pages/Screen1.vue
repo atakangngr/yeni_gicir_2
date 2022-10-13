@@ -12,8 +12,8 @@
       <NucGroupElement top="0%" left="0%" v-bind:snapX="false" v-bind:snapY="false" v-bind:isLock="false" bgColor=""
         position="absolute" ncTooltipText="" id="dec44559-2a20-4c39-ad04-11e5e1646f2f"
         v-bind:style="{'color':'#FFFFFF','width':'1050px','height':'637.5px','zIndex':2,'fontSize':'8.44171875px','maxWidth':'','minWidth':'5.6278125','tabIndex':'-0.56278125','boxShadow':'','fontStyle':'normal','marginTop':'0px','maxHeight':'','minHeight':'5.6278125','textAlign':'center','background':'','fontFamily':'Roboto-Regular,Roboto','fontWeight':'normal','lineHeight':'0.7034765625','marginLeft':'0px','paddingTop':'','textShadow':'','visibility':'visible','borderColor':'#767676','borderStyle':'solid','marginRight':'0px','paddingLeft':'','marginBottom':'0px','paddingRight':'','paddingBottom':'','borderTopWidth':'0.56278125px','textDecoration':'none','borderLeftWidth':'0.56278125px','borderRightWidth':'0.56278125px','borderBottomWidth':'0.56278125px','borderTopLeftRadius':'0px','borderTopRightRadius':'0px','borderBottomLeftRadius':'0px','borderBottomRightRadius':'0px'}">
-        <WImage top="12.349117920148561%" left="0%" v-bind:blank="false" v-bind:snapX="false" v-bind:snapY="false"
-          v-bind:rounded="false" stretch="none"
+        <WImage top="30.524509803921568%" left="37.958333333333336%" v-bind:blank="false" v-bind:snapX="false"
+          v-bind:snapY="true" v-bind:rounded="false" stretch="none"
           imageUrl="https://c4.wallpaperflare.com/wallpaper/497/154/549/house-building-flowers-beautiful-wallpaper-preview.jpg"
           position="absolute" v-bind:isEnabled="true" v-bind:thumbnail="false" blankColor="black"
           v-bind:aspectRatio="true" dataLoading="static" ncTooltipText="Please write a text to display in tooltip..."
